@@ -9,5 +9,8 @@
         <module name="Bucla For" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Bucla For" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

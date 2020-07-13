@@ -191,6 +191,8 @@ public class ForExercises {
             }
             System.out.println();// new line
         }
+
+
     }
 }
 
